@@ -110,15 +110,17 @@ export default {
 }
 .com{
     margin:5%;
+    margin-top:5%;
 }
 .com h3{
     margin-left:2%
 }
 .content h1{
+    margin-top:2%;
     text-align: center;
 }
 .content p{
-    margin-left:5%;
+   text-align: center;
 }
 .comments{
     display: flex;;
