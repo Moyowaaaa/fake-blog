@@ -100,6 +100,10 @@ button{
   font-size: 18px;;
   border:2px solid steelblue;  
 }
+button:hover{
+  background: steelblue;
+  color: white;
+}
 .content{
   width:100%;
   padding-left:5%;
